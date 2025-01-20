@@ -1,0 +1,501 @@
+City,Location,Size_sqft,Bedrooms,Bathrooms,Garage,Price
+Los Angeles,Rural,2544,4,3,1,822769
+Chicago,City Center,2785,4,3,2,761365
+Chicago,Rural,2396,3,3,2,669609
+Chicago,Suburb,1751,2,2,0,758122
+Phoenix,City Center,2253,1,3,1,847143
+New York,Downtown,1040,2,3,1,974446
+Chicago,Suburb,810,2,2,0,949476
+Chicago,Near Park,2482,2,1,2,325138
+New York,Rural,1476,2,2,0,636395
+Chicago,Rural,962,1,1,2,264829
+Houston,Rural,2786,1,3,0,908437
+Phoenix,Near Park,2587,3,3,2,998426
+New York,Suburb,1356,1,3,2,907502
+Houston,Rural,2919,1,3,2,226004
+Phoenix,Downtown,2759,3,1,2,930333
+Los Angeles,Near Park,1049,3,3,0,109570
+Houston,City Center,920,4,2,2,140659
+New York,Suburb,2787,4,1,2,947366
+Houston,Near Park,2837,2,2,0,802658
+Phoenix,Rural,2005,2,2,1,151470
+New York,Rural,2670,1,2,0,206626
+New York,City Center,2047,4,2,0,494413
+Phoenix,Downtown,1575,2,1,2,357388
+Chicago,Rural,1371,3,3,0,117075
+Chicago,Downtown,919,2,2,0,108807
+Los Angeles,Suburb,1783,1,2,1,887853
+Chicago,Near Park,2483,3,3,0,542447
+Phoenix,Near Park,1677,2,2,2,264426
+Houston,City Center,2566,3,2,2,562649
+Houston,Rural,1370,1,2,2,550902
+Houston,Downtown,2608,3,1,0,836661
+Phoenix,Near Park,1606,4,3,2,110823
+Los Angeles,Downtown,1193,5,2,2,384070
+Houston,Downtown,1137,4,3,1,242529
+New York,Suburb,2379,5,2,1,299626
+New York,Suburb,2095,1,2,1,384811
+Houston,Rural,2734,4,2,1,944330
+Phoenix,Downtown,2226,4,2,0,259543
+New York,Downtown,1734,1,2,0,169787
+Houston,Near Park,2377,3,2,0,830175
+Phoenix,Near Park,828,1,1,1,301392
+Phoenix,City Center,2419,2,1,1,373636
+New York,Near Park,1840,3,1,2,904290
+Phoenix,City Center,2536,4,3,1,537771
+Houston,Downtown,1787,5,3,2,221928
+Houston,Suburb,2250,3,1,0,388849
+Houston,City Center,2771,5,2,1,189687
+Los Angeles,Rural,1402,4,2,2,801402
+Houston,Near Park,1014,3,1,2,173207
+Phoenix,City Center,970,1,1,1,601747
+Phoenix,City Center,2185,3,3,0,126070
+Los Angeles,City Center,1891,1,2,0,542123
+Los Angeles,Suburb,2575,2,2,1,663332
+Houston,Near Park,1258,1,2,0,188322
+New York,Suburb,2120,3,1,2,828524
+Phoenix,Near Park,1827,1,1,1,537103
+Houston,Rural,2962,4,2,0,999993
+New York,Rural,2177,1,1,1,958625
+Chicago,Near Park,1499,4,2,1,816130
+Phoenix,Rural,2582,1,3,2,365163
+Chicago,City Center,870,2,2,1,688198
+Houston,City Center,2802,5,1,2,252042
+Phoenix,Rural,1864,2,3,0,989889
+Phoenix,City Center,2542,4,3,0,459410
+Phoenix,Rural,1968,4,1,0,642418
+Houston,Downtown,1047,1,3,2,811772
+Houston,Near Park,842,4,2,2,409051
+Chicago,Suburb,1716,5,2,0,747499
+New York,Downtown,1161,5,1,0,541108
+Chicago,City Center,1556,3,2,2,492844
+New York,Near Park,2113,1,1,0,218144
+New York,City Center,2367,1,1,0,356594
+Phoenix,Rural,2771,1,2,0,917069
+Houston,Near Park,1517,3,2,1,536336
+Houston,Downtown,2232,4,3,0,778916
+Chicago,City Center,1583,4,1,2,830613
+Chicago,City Center,2326,3,3,0,529446
+New York,City Center,2645,1,3,0,622816
+Houston,City Center,1690,5,2,2,950867
+Phoenix,City Center,842,2,1,2,809749
+Phoenix,Suburb,2951,3,1,2,852327
+New York,City Center,2864,5,3,2,911727
+Houston,City Center,1869,4,3,2,175626
+Phoenix,Downtown,2584,3,3,0,299867
+Phoenix,Rural,939,5,2,1,363761
+Phoenix,City Center,2225,1,2,0,922462
+Houston,Downtown,957,4,2,2,441034
+Chicago,Rural,952,3,2,2,246738
+New York,Downtown,2380,5,2,2,213211
+New York,Rural,1816,2,1,1,612005
+Los Angeles,Near Park,2159,2,3,2,632424
+Houston,Suburb,1825,4,2,1,265940
+Chicago,City Center,1625,5,2,1,282000
+Chicago,Rural,1881,3,1,2,850995
+New York,Downtown,1746,1,2,1,519190
+Chicago,Near Park,2127,5,3,1,122287
+Phoenix,Near Park,1186,2,1,0,943162
+Houston,Suburb,1937,5,3,2,961830
+Houston,City Center,1492,5,2,0,229607
+New York,Near Park,2843,5,2,0,737324
+Phoenix,Near Park,1970,4,3,1,268357
+New York,Suburb,960,4,2,0,781407
+Phoenix,Suburb,2528,1,2,2,786995
+Chicago,Near Park,1889,2,3,1,339708
+Los Angeles,City Center,2880,3,1,0,899215
+Phoenix,Downtown,2592,2,3,1,573310
+New York,Near Park,1233,1,1,2,859172
+Phoenix,City Center,1159,3,3,2,542316
+Houston,Suburb,985,5,3,0,583652
+Phoenix,Suburb,2861,4,1,2,856902
+Chicago,Rural,2881,1,3,2,464964
+Houston,Near Park,2898,3,2,1,215991
+New York,City Center,1623,3,3,1,114180
+Houston,Near Park,1714,5,2,2,612833
+Phoenix,Near Park,1836,1,1,0,887420
+Houston,City Center,2247,5,1,0,112466
+Phoenix,Suburb,2849,1,1,0,491785
+Los Angeles,Downtown,1784,4,3,1,156523
+Phoenix,Near Park,1860,5,2,2,314136
+Houston,Near Park,1556,2,1,2,672605
+Houston,Suburb,1686,1,3,1,206135
+Chicago,Rural,2630,4,1,1,146611
+Los Angeles,Downtown,1422,2,1,0,328634
+Chicago,Rural,1286,2,2,1,915320
+Phoenix,City Center,989,4,2,2,620333
+New York,Rural,1837,2,2,2,781371
+New York,City Center,964,3,3,1,888298
+Phoenix,Near Park,2231,1,3,2,870560
+New York,Rural,2262,5,3,1,849442
+Los Angeles,Near Park,1551,4,3,0,927639
+Los Angeles,Downtown,1456,2,1,2,815392
+New York,Suburb,885,2,2,0,316509
+Chicago,Rural,2110,1,3,1,565718
+Los Angeles,Near Park,2764,1,3,0,584236
+New York,Near Park,2384,2,2,1,525826
+Houston,Near Park,2410,1,2,1,312298
+Chicago,Suburb,1209,5,3,2,658970
+Los Angeles,Downtown,2178,4,1,2,796539
+Phoenix,Suburb,2884,1,3,2,349496
+Los Angeles,Suburb,1170,5,3,1,515660
+Houston,Suburb,1544,3,1,2,118092
+Los Angeles,Suburb,2619,5,1,0,691253
+Houston,Suburb,2880,3,1,1,839583
+New York,Downtown,2854,1,2,0,521703
+Chicago,City Center,2004,4,3,0,132659
+Houston,Suburb,2752,2,1,1,117778
+New York,Suburb,1353,1,2,1,622106
+Los Angeles,City Center,927,1,3,0,428664
+Phoenix,City Center,2200,2,2,2,139340
+Phoenix,Rural,1569,2,3,1,949463
+Chicago,Near Park,1030,1,2,0,854808
+Chicago,Suburb,1277,1,2,2,236298
+New York,Near Park,2688,5,3,1,947063
+Los Angeles,Rural,1247,3,2,0,942519
+Los Angeles,Near Park,1857,4,3,0,415728
+Chicago,Suburb,2027,1,1,1,977627
+Los Angeles,Suburb,1584,2,3,1,194068
+Chicago,Near Park,2084,2,2,1,660817
+Los Angeles,Near Park,1229,4,3,0,750061
+New York,City Center,2477,1,2,2,941325
+Los Angeles,Downtown,2405,5,1,2,530580
+Los Angeles,Suburb,2473,1,1,1,771228
+New York,Rural,2242,1,1,2,921331
+New York,City Center,1852,3,1,2,625638
+Phoenix,Rural,1011,5,1,0,344262
+Chicago,Suburb,2015,4,3,1,634218
+Chicago,Downtown,1515,5,3,1,179007
+New York,Suburb,1863,5,3,2,257108
+New York,City Center,2319,3,1,0,203809
+Houston,Downtown,1165,1,1,2,179898
+Houston,Rural,2297,2,2,0,376133
+Phoenix,City Center,2848,3,2,0,967558
+Chicago,Near Park,1253,3,1,2,281585
+Houston,Rural,2849,4,1,0,353216
+Chicago,Rural,2811,3,2,0,816610
+Los Angeles,City Center,2396,1,3,0,524944
+New York,Rural,1188,4,1,1,614589
+Phoenix,Rural,1747,2,3,0,623989
+Phoenix,City Center,2541,4,3,0,109900
+Chicago,Suburb,1103,3,3,2,739666
+New York,Suburb,2493,4,2,0,282649
+Los Angeles,Downtown,1309,4,1,0,257697
+New York,Rural,1892,5,1,0,903474
+Los Angeles,City Center,1817,5,2,2,612162
+Chicago,City Center,1402,4,1,0,173132
+Chicago,Rural,2783,5,1,2,811669
+Phoenix,Suburb,811,4,3,2,774780
+New York,Rural,1207,4,3,2,571103
+Phoenix,Near Park,2119,4,1,2,770503
+Chicago,Downtown,862,4,1,1,398872
+Houston,Suburb,2904,2,2,2,952143
+Houston,Near Park,1236,5,3,1,975515
+Phoenix,Near Park,1404,2,1,1,864653
+Phoenix,Downtown,1921,3,3,0,600974
+New York,City Center,1675,4,2,2,899614
+Los Angeles,Rural,2771,2,3,1,335060
+Chicago,Suburb,853,2,3,0,540613
+Los Angeles,Rural,1156,3,1,0,421406
+Los Angeles,Near Park,2620,3,3,2,633732
+Los Angeles,City Center,925,2,3,2,773953
+New York,Downtown,2878,2,1,2,216634
+New York,Near Park,1855,2,3,1,715069
+Phoenix,Suburb,2697,3,1,2,543736
+Chicago,Downtown,951,2,3,2,978696
+Chicago,City Center,2620,2,1,0,762148
+Houston,Near Park,1086,1,1,2,262595
+Chicago,Rural,2310,5,1,0,579057
+Phoenix,Downtown,903,1,3,1,366281
+Houston,Rural,1274,4,2,2,882937
+Phoenix,Downtown,1914,1,2,1,321001
+New York,Near Park,1905,1,2,0,780875
+New York,City Center,1753,4,3,2,547559
+Houston,Near Park,2092,5,1,1,217927
+Phoenix,Suburb,2604,2,2,0,941262
+Chicago,City Center,2431,2,2,1,369327
+Los Angeles,Rural,1140,3,2,0,202771
+Chicago,Near Park,2052,4,1,2,611100
+Houston,Rural,1977,2,2,0,227146
+Los Angeles,City Center,1934,2,2,0,416454
+Los Angeles,Suburb,1864,3,3,2,656869
+Phoenix,Near Park,2424,1,2,2,878911
+Chicago,Near Park,1979,5,3,1,546212
+Houston,Downtown,1376,3,2,0,753752
+New York,Downtown,1934,1,1,0,326967
+Phoenix,Near Park,2002,5,3,2,671369
+Phoenix,City Center,969,3,2,1,902591
+Los Angeles,Near Park,2904,4,3,2,228726
+Los Angeles,Suburb,2123,2,2,0,722133
+Los Angeles,City Center,1648,4,2,2,168165
+Los Angeles,Rural,2578,4,1,2,583859
+Phoenix,Rural,2152,3,3,2,412470
+Chicago,Suburb,1126,2,3,2,719860
+Chicago,Rural,1975,5,1,0,988685
+Chicago,Downtown,2496,3,2,1,501751
+Houston,Rural,2258,3,2,0,977265
+Phoenix,City Center,2888,2,1,0,488180
+Los Angeles,Rural,2532,2,2,1,842674
+Phoenix,City Center,1140,1,2,2,841122
+New York,Suburb,1546,4,3,0,443641
+Los Angeles,Suburb,1791,5,1,0,260856
+Chicago,Suburb,2039,4,1,2,112721
+Chicago,Downtown,864,3,1,0,877735
+Los Angeles,City Center,2435,1,1,0,782713
+Los Angeles,Suburb,2394,2,2,0,344081
+Chicago,Rural,1931,1,2,2,880952
+Phoenix,Rural,851,4,1,1,512768
+Houston,Near Park,2554,4,2,0,581792
+Houston,Near Park,1529,3,1,2,584384
+Phoenix,Near Park,848,3,3,2,218450
+Phoenix,City Center,2373,2,2,0,661751
+Phoenix,Downtown,1307,5,2,1,506883
+New York,Downtown,1996,1,2,1,482182
+Phoenix,Near Park,1222,3,3,0,904964
+Phoenix,Downtown,1565,2,3,2,311656
+Houston,Near Park,2861,4,1,1,372028
+New York,Suburb,2975,5,2,0,216194
+Phoenix,Suburb,944,3,2,2,760134
+Houston,Near Park,883,1,1,0,560115
+Chicago,Downtown,856,2,2,0,298793
+Chicago,Near Park,2922,4,2,0,222882
+Phoenix,Suburb,2711,1,1,0,398643
+New York,Downtown,1710,1,1,2,778933
+Phoenix,City Center,1898,4,2,2,706787
+Los Angeles,City Center,2735,4,2,1,586693
+Los Angeles,Downtown,2342,3,2,0,335837
+Los Angeles,Downtown,1232,4,2,2,121051
+New York,Suburb,1706,2,1,0,734332
+Phoenix,Suburb,2606,3,2,0,157030
+Chicago,Near Park,2707,4,2,0,300695
+Chicago,Near Park,1390,4,1,1,927437
+Phoenix,Rural,2527,1,3,2,237232
+Chicago,City Center,1940,3,1,0,437737
+Houston,Near Park,2353,3,3,1,703293
+Phoenix,Rural,1999,4,2,1,266302
+New York,Rural,2157,1,2,2,343037
+Los Angeles,Rural,2561,4,1,2,346930
+Chicago,City Center,2570,3,2,2,111140
+Phoenix,Near Park,835,2,3,1,660619
+Los Angeles,City Center,2806,4,3,1,475430
+Los Angeles,Suburb,2043,3,3,0,452398
+Houston,Rural,1229,3,2,2,580506
+Phoenix,Near Park,1897,1,1,1,407292
+Chicago,Rural,1016,4,2,1,866501
+Los Angeles,Downtown,2327,1,1,2,718827
+New York,Suburb,2590,3,2,0,788497
+Phoenix,Suburb,1922,2,2,2,649112
+Chicago,Rural,1816,2,1,1,623246
+Chicago,Rural,1689,1,3,1,422367
+Phoenix,Suburb,1976,1,2,0,272785
+Chicago,Near Park,2713,2,3,2,328974
+Chicago,City Center,850,3,2,0,928957
+Chicago,City Center,2251,5,2,2,364026
+Phoenix,Near Park,2524,2,3,2,687319
+Houston,Suburb,2679,5,3,2,111851
+New York,Near Park,1346,1,2,0,764437
+Los Angeles,Downtown,1407,1,3,1,660288
+Phoenix,Near Park,2964,4,3,2,105198
+Los Angeles,Rural,1847,1,3,1,293302
+Houston,Rural,1625,1,2,1,865513
+Chicago,City Center,2924,4,3,1,842633
+Chicago,Rural,905,4,1,1,749386
+New York,Rural,1747,2,1,1,242577
+Chicago,Downtown,2226,5,1,2,103150
+New York,Suburb,1875,2,3,0,620674
+Los Angeles,Near Park,1701,1,3,1,189039
+Houston,Suburb,2486,2,3,0,503893
+Chicago,Downtown,1434,2,3,2,198497
+New York,City Center,2278,3,1,2,911866
+Los Angeles,City Center,1638,4,3,1,544221
+Los Angeles,Near Park,2361,3,3,2,137861
+Chicago,City Center,1297,2,2,1,268221
+New York,Downtown,2147,5,3,0,216114
+Houston,Downtown,1016,2,2,1,594706
+Los Angeles,Suburb,1502,4,1,2,541062
+New York,Suburb,2878,3,1,2,596148
+New York,Near Park,2115,4,3,0,451889
+Houston,Downtown,1862,1,1,0,643779
+New York,Suburb,2225,3,2,0,840898
+Phoenix,Downtown,2322,1,2,1,437601
+Los Angeles,Downtown,2596,2,2,0,314518
+Chicago,Near Park,2751,4,1,2,566659
+Phoenix,Downtown,1699,3,3,1,953634
+New York,Rural,2037,4,3,0,928060
+New York,City Center,2686,5,1,1,630661
+Los Angeles,Downtown,1730,4,2,2,874577
+New York,Near Park,837,2,3,1,318685
+Houston,Near Park,1685,5,1,0,801945
+Chicago,Suburb,1166,3,2,1,669174
+Houston,Near Park,1252,2,3,0,729143
+Phoenix,Suburb,2923,3,3,2,419069
+Houston,Suburb,2310,3,1,0,820155
+Los Angeles,Near Park,1120,4,1,1,176827
+Phoenix,Rural,2371,1,1,0,255164
+Los Angeles,City Center,1618,4,3,0,898237
+Phoenix,Downtown,2057,2,1,1,930832
+New York,Suburb,2684,2,2,2,643790
+Los Angeles,Downtown,989,2,1,2,239094
+Los Angeles,Downtown,2599,4,3,2,650466
+Los Angeles,Rural,2213,4,3,1,655570
+Chicago,Rural,1730,3,2,0,559159
+Chicago,Rural,1949,1,2,1,169895
+Los Angeles,Suburb,1368,4,1,0,897853
+New York,Near Park,2711,1,1,1,464230
+Los Angeles,Suburb,2968,4,3,1,526141
+New York,City Center,924,2,3,2,674677
+Los Angeles,Rural,1673,3,2,1,122406
+Chicago,Suburb,837,3,3,2,997314
+New York,Near Park,2214,4,3,2,383656
+Houston,Near Park,1775,5,3,0,195963
+Houston,Near Park,2742,2,3,0,626553
+New York,Near Park,2781,5,1,2,576554
+Houston,Rural,2852,2,3,1,917094
+Phoenix,Downtown,864,2,2,1,534598
+Phoenix,Near Park,2668,3,3,1,490607
+New York,Downtown,1315,5,3,1,394254
+New York,Suburb,1511,3,3,0,300137
+Los Angeles,Downtown,1862,5,2,0,190100
+Chicago,Near Park,2843,1,3,2,671174
+Los Angeles,Suburb,1909,4,2,0,621302
+New York,Near Park,2203,3,3,2,703221
+New York,City Center,2406,2,1,2,650099
+Phoenix,Rural,1802,4,2,2,208673
+Houston,Downtown,2801,5,1,2,977736
+Los Angeles,Near Park,2828,3,2,0,889356
+Los Angeles,Suburb,2796,4,3,2,434113
+Chicago,Downtown,899,2,3,2,379947
+Chicago,Rural,1431,3,3,1,644661
+Chicago,Downtown,1114,5,2,2,727515
+Chicago,Near Park,888,2,2,2,366787
+Chicago,Rural,1500,1,1,2,328201
+Phoenix,Near Park,1833,1,2,0,108822
+Chicago,Rural,1047,1,3,0,714063
+Los Angeles,Downtown,2465,4,1,0,105390
+Phoenix,City Center,1952,4,3,1,576069
+Chicago,Rural,1232,5,1,0,623314
+Phoenix,Suburb,1988,3,3,1,880946
+Los Angeles,Near Park,859,2,2,1,113039
+Phoenix,City Center,1078,4,3,2,506714
+New York,City Center,2868,4,3,0,682211
+Los Angeles,City Center,1253,5,3,1,687322
+New York,City Center,1721,1,1,1,477409
+Phoenix,Suburb,1709,1,1,1,252550
+Chicago,City Center,1653,2,2,1,999760
+Los Angeles,Suburb,2650,5,1,0,364824
+Chicago,Near Park,2015,2,1,1,533711
+Phoenix,Near Park,2105,4,3,2,468195
+Los Angeles,Downtown,2562,5,2,2,809091
+New York,City Center,2247,5,2,2,595971
+Los Angeles,Near Park,2966,5,2,1,395036
+Los Angeles,Downtown,1037,2,2,0,254659
+Houston,Near Park,2329,5,2,2,316237
+New York,Rural,2870,3,1,2,743868
+Los Angeles,Rural,1479,1,2,1,560555
+Houston,City Center,2454,4,1,0,535891
+Houston,Suburb,1275,2,1,0,449767
+Chicago,Rural,2329,2,1,1,158694
+Los Angeles,Near Park,1307,4,3,1,220958
+Chicago,Near Park,1958,1,2,2,596862
+Chicago,Suburb,846,3,2,1,773324
+Chicago,Rural,2946,5,1,2,564522
+Houston,Downtown,1717,4,3,2,150521
+New York,Rural,2493,4,1,2,272671
+Phoenix,Rural,2052,2,2,0,199644
+Houston,Downtown,1104,1,3,1,370762
+Houston,Suburb,876,3,2,1,921174
+New York,Downtown,2077,3,3,1,161875
+New York,Rural,2958,5,3,1,843104
+Houston,Near Park,1646,4,3,2,831445
+Los Angeles,City Center,1709,5,1,2,866710
+New York,Downtown,2629,2,2,0,653132
+Phoenix,City Center,810,1,1,0,929688
+New York,Rural,1621,3,3,0,744083
+Phoenix,Rural,2267,1,2,0,878605
+Phoenix,City Center,1909,1,1,0,911771
+Los Angeles,Downtown,2033,2,1,1,660093
+Houston,Near Park,2033,3,3,2,768538
+Los Angeles,Downtown,1430,2,2,1,852687
+Houston,Near Park,991,2,3,0,367728
+Phoenix,Downtown,896,1,2,2,359337
+New York,City Center,2304,4,2,2,465248
+Chicago,City Center,956,2,2,1,538207
+Phoenix,City Center,979,5,3,1,566216
+Phoenix,Suburb,1499,3,2,1,391541
+Phoenix,City Center,2243,3,3,2,982264
+New York,Rural,1376,2,2,2,451665
+Houston,Suburb,2891,2,1,1,671785
+Phoenix,Downtown,2745,2,2,0,507005
+Los Angeles,Downtown,1479,4,3,0,736043
+Houston,Rural,1939,4,1,0,435465
+New York,Near Park,1349,1,1,1,203127
+Phoenix,Downtown,1418,4,1,1,604888
+Houston,Near Park,2151,5,2,2,229551
+Phoenix,Rural,2221,1,2,0,579427
+New York,Rural,2553,3,2,1,977756
+Houston,Suburb,1955,1,1,1,552609
+Phoenix,Near Park,840,4,3,0,143620
+Phoenix,Suburb,2290,3,3,2,724097
+Houston,Downtown,2970,3,1,0,200838
+Phoenix,Near Park,2865,1,3,0,310890
+Phoenix,Rural,2815,5,1,0,696810
+Chicago,Downtown,1696,3,3,1,886153
+New York,City Center,2343,4,1,2,207890
+Houston,Suburb,1030,2,3,0,626821
+Chicago,Suburb,1927,5,3,2,708841
+Houston,City Center,1303,4,1,1,643761
+Los Angeles,Rural,2291,3,3,2,256737
+Houston,Suburb,2122,1,2,0,268447
+Phoenix,Near Park,1412,2,1,2,373022
+New York,Near Park,1832,3,1,2,981731
+Los Angeles,City Center,1880,1,2,1,432624
+Houston,Near Park,2725,2,2,1,180840
+New York,Suburb,827,4,1,0,634670
+Phoenix,Near Park,1462,5,2,0,874791
+Houston,Near Park,1748,4,2,1,754228
+Chicago,Downtown,2238,1,2,1,680163
+Chicago,Downtown,912,5,3,0,269299
+Los Angeles,City Center,2404,5,1,1,488926
+Chicago,Downtown,2771,3,2,2,180836
+Phoenix,Rural,1402,5,3,1,576538
+Chicago,City Center,2385,3,1,0,219698
+Los Angeles,Suburb,1909,4,3,0,676961
+Phoenix,City Center,2985,2,3,2,481678
+Los Angeles,Suburb,2637,3,3,2,710117
+New York,Downtown,1504,3,2,2,930695
+Los Angeles,Rural,1884,2,2,1,752814
+Houston,Suburb,2326,3,2,2,514573
+New York,City Center,954,2,1,0,599981
+New York,Rural,850,5,1,1,819521
+Chicago,City Center,1660,2,1,0,184064
+Houston,Near Park,2421,2,3,2,940265
+Los Angeles,Near Park,1423,1,3,2,184088
+Chicago,City Center,2403,1,1,1,722656
+Houston,Rural,1430,5,3,1,297039
+Houston,Rural,2806,2,1,0,133113
+New York,Downtown,2346,2,2,1,420467
+Los Angeles,Rural,1590,2,1,2,828655
+Phoenix,City Center,2683,1,3,0,704045
+Los Angeles,Suburb,1461,3,3,2,269827
+Chicago,Suburb,877,1,2,0,254195
+Los Angeles,Downtown,1404,4,3,1,849922
+Chicago,Suburb,1611,4,2,0,462718
+Chicago,Near Park,1304,4,3,0,915855
+New York,Suburb,2302,5,3,1,106600
+Los Angeles,City Center,2728,5,2,1,827087
+New York,Downtown,2986,5,1,0,909059
+Houston,City Center,1888,3,3,1,465944
+New York,City Center,1067,5,3,1,625504
+Phoenix,Near Park,1791,3,3,2,815673
+New York,Suburb,1312,2,2,1,403529
+Houston,Rural,2473,3,1,0,134709
+Phoenix,Downtown,1774,3,1,0,462386
+Phoenix,City Center,2667,4,2,0,179569
+Los Angeles,City Center,2756,1,3,1,315345
+Chicago,City Center,1665,5,3,2,789871
+Houston,Downtown,1220,3,1,1,320033
+Chicago,Near Park,1335,4,2,1,561671
+Houston,Rural,2533,3,1,0,173047
+Los Angeles,City Center,2601,4,1,1,634986
+Chicago,Near Park,1849,5,2,0,617451
+Chicago,City Center,2868,1,2,2,670822
